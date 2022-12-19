@@ -30,7 +30,7 @@
 
 <br />
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Jobayer109" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jobayer109&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 
