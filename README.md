@@ -1,7 +1,6 @@
+![Profile views](https://gpvc.arturio.dev/Jobayer109)
 <img src="https://media.licdn.com/dms/image/D5616AQEu5IG9w0xBww/profile-displaybackgroundimage-shrink_350_1400/0/1675935826019?e=1681344000&v=beta&t=EldoV7Hxt5ym3T_YmOl_SmjW84uyojq8pElmVGBHFcM" style="vertical-align:top; margin:20px"/>
-
-![I am Full-stack Developer](https://media.licdn.com/dms/image/D5616AQFVC2nwHtk9yw/profile-displaybackgroundimage-shrink_350_1400/0/1675914264103?e=1681344000&v=beta&t=RPwMGibWuNafAFoQ7OkAQT39Wkt0bIdgYjApxfPlzVA)
-
+  
 ## Hi👋, I'm `Jobayer Ahmed`
 
 I am a full-stack developer with 1 year of experience in the tech industry. I have expertise in front-end and back-end development, utilizing technologies such as HTML, CSS, JavaScript, React, Node.js, Express, Redux, MongoDB, and PostgreSQL. I am passionate about building user-friendly websites and applications that deliver exceptional results. I stay up-to-date with the latest advancements in the field and am dedicated to delivering high-quality work that exceeds client expectations.
@@ -57,5 +56,4 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
   <a href="https://jobayerahmed.netlify.app/">
       <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" height="30" style="vertical-align:top; margin:4px"/>
     </a>
-  
   </p>
