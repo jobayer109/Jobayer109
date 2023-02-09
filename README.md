@@ -1,7 +1,7 @@
 ![I am Full-stack Developer](https://media.licdn.com/dms/image/D5616AQFVC2nwHtk9yw/profile-displaybackgroundimage-shrink_350_1400/0/1675914264103?e=1681344000&v=beta&t=RPwMGibWuNafAFoQ7OkAQT39Wkt0bIdgYjApxfPlzVA)
 
-### Hi there 👋, my name is Jobayer Ahmed
-#### I am Full-stack Developer
+#### Hi there 👋, my name is Jobayer Ahmed
+
 ![Profile views](https://gpvc.arturio.dev/Jobayer109)  
 
 
