@@ -33,9 +33,10 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 - 🔭 I’m currently working on this page. 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jobayer109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/jobayer109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jobayer109//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jobayer1995/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jobayerahmed.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jobayer109)  
 
-<div>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+ 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobayer109&show_icons=true)  
 
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109)" />
