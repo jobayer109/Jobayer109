@@ -35,8 +35,10 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Jobayer109)  
 
+<p align="center">
+  <img width="70%" src="[https://github-readme-streak-stats.herokuapp.com?user=Jobayer109&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109)](https://github.com/anuraghazra/github-readme-stats)" />
+</p>
 
 
 <br />
