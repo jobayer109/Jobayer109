@@ -1,6 +1,6 @@
 ![I am Full-stack Developer](https://media.licdn.com/dms/image/D5616AQFVC2nwHtk9yw/profile-displaybackgroundimage-shrink_350_1400/0/1675914264103?e=1681344000&v=beta&t=RPwMGibWuNafAFoQ7OkAQT39Wkt0bIdgYjApxfPlzVA)
 
-#### Hi there 👋, my name is Jobayer Ahmed
+## Hi there 👋, my name is Jobayer Ahmed
 
 ![Profile views](https://gpvc.arturio.dev/Jobayer109)  
 
@@ -22,12 +22,18 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 </p><br/>
 
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jobayer109&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+
 - 🔭 I’m currently working on this page. 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jobayer109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/jobayer109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jobayer109//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jobayer1995/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jobayerahmed.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jobayer109)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobayer109&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Jobayer109)  
 
@@ -40,11 +46,5 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 
 
 
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jobayer109&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
 
 
