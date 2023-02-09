@@ -35,7 +35,9 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 
 
 ## :computer: Technologies that I worked on it:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobayer109=true&theme=tokyonight)
+
+
 
 
 
