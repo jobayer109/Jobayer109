@@ -39,6 +39,7 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobayer109&show_icons=true)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 
 
