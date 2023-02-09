@@ -1,4 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/Jobayer109)  
+<img src="https://media.licdn.com/dms/image/D5616AQEu5IG9w0xBww/profile-displaybackgroundimage-shrink_350_1400/0/1675935826019?e=1681344000&v=beta&t=EldoV7Hxt5ym3T_YmOl_SmjW84uyojq8pElmVGBHFcM" style="vertical-align:top; margin:20px"/>
+
 ![I am Full-stack Developer](https://media.licdn.com/dms/image/D5616AQFVC2nwHtk9yw/profile-displaybackgroundimage-shrink_350_1400/0/1675914264103?e=1681344000&v=beta&t=RPwMGibWuNafAFoQ7OkAQT39Wkt0bIdgYjApxfPlzVA)
 
 ## Hi👋, I'm `Jobayer Ahmed`
