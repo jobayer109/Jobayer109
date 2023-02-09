@@ -1,11 +1,23 @@
-## :eyes: Current overview
+### Hi there 👋, my name is Jobayer Ahmed
+#### I am Full-stack Developer
+![I am Full-stack Developer](https://media.licdn.com/dms/image/D5616AQFVC2nwHtk9yw/profile-displaybackgroundimage-shrink_350_1400/0/1675914264103?e=1681344000&v=beta&t=RPwMGibWuNafAFoQ7OkAQT39Wkt0bIdgYjApxfPlzVA)
+
+I am a full-stack developer with 1 year of experience in the tech industry. I have expertise in front-end and back-end development, utilizing technologies such as HTML, CSS, JavaScript, React, Node.js, Express, Redux, MongoDB, and PostgreSQL. I am passionate about building user-friendly websites and applications that deliver exceptional results. I stay up-to-date with the latest advancements in the field and am dedicated to delivering high-quality work that exceeds client expectations.
+
+Skills: React / Node / Express / MongoDB / PostgreSQL / Javascript / Tailwind/ Bootstrap / CSS / HTML 
+
+- 🔭 I’m currently working on this page. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jobayer109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/jobayer109)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jobayer109//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jobayer1995/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jobayerahmed.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jobayer109)  
 
-### 🔭 I’m working - On my own projects. 
-### 🌱 I’m exploring - Redux, NextJs, MaterialUI. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### ⚡ Fun fact - I am amazing.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jobayer109&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Jobayer109)  
+
+![Profile views](https://gpvc.arturio.dev/Jobayer109)  
 
 
 <br />
