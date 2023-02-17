@@ -31,6 +31,18 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 ## :computer: Technologies I have worked with:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109&layout=compact&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
+### 💼 &nbsp; Employment History
+
+|       |Serial | Position                     | Institute                                     | Duration            | Location           |
+--------|-------|------------------------------| --------------------------------------------- | ------------------- | ------------------ |
+|       |  1    | Backend Developer            | 3W Business Private Ltd                       | Feb 2023 - Present  | Mumbai, India      |
+|       |  2    | Full Stack developer         | RedPositive Service (OPC) Private Ltd         | Jan 2023 - Present  | Rajsthan, India    |
+
+
+<br />
+
+
+
 ## 📲 About me more:
 
 <p align="center">
