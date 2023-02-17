@@ -39,8 +39,6 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 |       |  2    | Full Stack developer         | RedPositive Service (OPC) Private Ltd         | Jan 2023 - Present  | Rajsthan, India    |
 
 
-<br />
-
 ## 📲 About me more:
 
 <p align="center">
