@@ -31,7 +31,7 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 ## :computer: Technologies I have worked with:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109&layout=compact&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-### 💼 &nbsp; Employment History
+## 💼 &nbsp; Employment History
 
 |       |Serial | Position                     | Institute                                     | Duration            | Location           |
 --------|-------|------------------------------| --------------------------------------------- | ------------------- | ------------------ |
@@ -40,8 +40,6 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 
 
 <br />
-
-
 
 ## 📲 About me more:
 
