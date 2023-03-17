@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D5616AQGbvZE-bYl4xg/profile-displaybackgroundimage-shrink_350_1400/0/1679069883491?e=1684368000&v=beta&t=xXwTQchuKS6KnBpxexUijOJzSNkGjLPse-Hl5mUGwG4" style="vertical-align:top; margin:20px"/>
   
-## Hi👋, I'm `Jobayer Ahmed`
+# Hi, I'm `Jobayer Ahmed`
 
 I am a full-stack developer with 1 year of experience in the tech industry. I have expertise in front-end and back-end development, utilizing technologies such as HTML, CSS, JavaScript, React, Node.js, Express, Redux, MongoDB, and PostgreSQL. I am passionate about building user-friendly websites and applications that deliver exceptional results. I stay up-to-date with the latest advancements in the field and am dedicated to delivering high-quality work that exceeds client expectations.
 <br/>
