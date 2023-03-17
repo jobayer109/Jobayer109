@@ -32,10 +32,10 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 
 ## 💼 &nbsp; Employment History
 
-|       |Serial | Position                     | Institute                                     | Duration            | Location           |
---------|-------|------------------------------| --------------------------------------------- | ------------------- | ------------------ |
-|       |  1    | Backend Developer            | 3W Business Private Ltd                       | Feb 2023 - Present  | Mumbai, India      |
-|       |  2    | Full Stack developer         | RedPositive Service (OPC) Private Ltd         | Jan 2023 - Feb 2023 | Rajsthan, India    |
+|Serial | Position                  | Institute                             | Duration          | Job Type   | Location         |
+|-------|---------------------------|---------------------------------------| ------------------|------------|------------------|
+|  1    | Backend Developer (Node)  | 3W Business Private Ltd               | 02.2023 - Present |Internship  | Mumbai, India    |
+|  2    | Full Stack developer      | RedPositive Service (OPC) Private Ltd | 01.2023 - 03.2023 |Internship  | Rajsthan, India  |
 
 
 ## 📲 About me more:
