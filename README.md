@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5622AQGYZJLHI1dIDg/feedshare-shrink_800/0/1679554822197?e=1682553600&v=beta&t=4kZAB1b6sXU3gt1UKPjkc4BgsB4DW676jDfo7VjL3Ac" style="vertical-align:top; margin:20px"/>
+<img src="https://media.licdn.com/dms/image/D5616AQF-XYH5-LWmVw/profile-displaybackgroundimage-shrink_350_1400/0/1679554686143?e=1695254400&v=beta&t=g5voYs5Wi0dPBec5I8es-AJkOIqxh8fHORN2jtJVjRc" style="vertical-align:top; margin:20px"/>
   
 # Hi, I'm `Jobayer Ahmed`
 
