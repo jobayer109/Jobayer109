@@ -16,9 +16,9 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png" height="40"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png" height="40"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" height="40"/>
+<img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## :chart_with_upwards_trend: Current Status:
