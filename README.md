@@ -6,7 +6,7 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 <br/>
 
 
-## 🧰 Technologies and Tools:
+## 🧰 `Technologies and Tools:`
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" height="40"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" height="40"/>
@@ -21,20 +21,20 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## :chart_with_upwards_trend: Current Status:
+## :chart_with_upwards_trend: `Current working status:`
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jobayer109&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
-# 📊 : Problem-Solving Related Links:
-  👉 <a href="https://www.codewars.com/users/Jobayer109">Code_Wars Profile.</a>
+## 📊 `Problem-solving related links:`
+  👉 <a href="https://www.codewars.com/users/Jobayer109">Code_Wars Profile.</a> <br/>
   👉 <a href="https://stackoverflow.com/users/19937402/jobayer-ahmed">Stack Overflow Profile</a>
 
-## :computer: Technologies I have worked with:
+## :computer: `Technologies I have worked with:`
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109&layout=compact&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-## 💼 &nbsp; Employment History
+## 💼 &nbsp; `Employment History:`
 
 |Serial | Position                  | Institute                             | Duration          | Job Type   | Location         |
 |-------|---------------------------|---------------------------------------| ------------------|------------|------------------|
@@ -42,7 +42,7 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 |  2    | Full Stack developer      | RedPositive Service (OPC) Private Ltd | 01.2023 - 03.2023 |Internship  | Rajsthan, India  |
 
 
-## 📲 About me more:
+## 📲 `About me more:`
 
 <p align="center">
        <br />
