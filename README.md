@@ -34,37 +34,27 @@ I am a full-stack developer with 1 year of experience in the tech industry. I ha
 ## :computer: `Technologies I have worked with:`
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109&layout=compact&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-## 💼 &nbsp; `Employment History:`
-
-|Serial | Position                  | Institute                             | Duration          | Job Type   | Location         |
-|-------|---------------------------|---------------------------------------| ------------------|------------|------------------|
-|  1    | Backend Developer (Node)  | 3W Business Private Ltd               | 02.2023 - 04.2023 |Internship  | Mumbai, India    |
-|  2    | Full Stack developer      | RedPositive Service (OPC) Private Ltd | 01.2023 - 03.2023 |Internship  | Rajsthan, India  |
-
 
 ## 📲 `About me more:`
 
 <p align="center">
        <br />
-    <a href="https://www.linkedin.com/in/jobayer109/">
+      <a href="https://www.linkedin.com/in/jobayer109/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30" style="vertical-align:top; margin:20px"/>
-    </a>
-    <a href="https://www.facebook.com/jobayer1995/">
-      <img src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" height="30" style="vertical-align:top; margin:14px"/>
     </a>
   <a href="https://github.com/Jobayer109/">
       <img src="https://cdn-icons-png.flaticon.com/512/536/536452.png" height="30" style="vertical-align:top; margin:4px"/>
     </a>
-  <a href="https://jobayerahmed.netlify.app/">
-      <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="30" style="vertical-align:top; margin:4px"/>
-    </a>
    <a href="https://dev.to/jobayer109">
       <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="30" style="vertical-align:top; margin:4px"/>
     </a>
-   <a href="https://stackoverflow.com/users/19937402/jobayer-ahmed">
+  <a href="https://stackoverflow.com/users/19937402/jobayer-ahmed">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGzjea6fE-N9d6GpBr5ZPng68fSHwKI0rbsA&usqp=CAU" height="30" style="vertical-align:top; margin:4px"/>
     </a>
-  <a href="https://jobayerahmed.netlify.app/">
-      <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" height="30" style="vertical-align:top; margin:4px"/>
+    <a href="https://www.facebook.com/jobayer1995/">
+      <img src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" height="30" style="vertical-align:top; margin:14px"/>
+    </a>
+    <a href="https://jobayerahmed.netlify.app/">
+      <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="30" style="vertical-align:top; margin:4px"/>
     </a>
   </p>
