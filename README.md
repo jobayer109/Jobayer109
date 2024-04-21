@@ -21,17 +21,14 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
 </p>
 
 ## :chart_with_upwards_trend: `Current working status:`
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jobayer109&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Jobayer109&theme=highcontrast&locale=en&hide_border=true" alt="Jobayer109" /></p>
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer109&theme=highcontrast&hide_border=true" alt="Jobayer109" /></p>
+<p><img align="right" style="margin:400px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Jobayer109&theme=highcontrast&show_icons=true&locale=en&hide_border=true" alt="Jobayer109" /></p>
+ 
 ## 📊 `Problem-solving related links:`
   👉 <a href="https://www.codewars.com/users/Jobayer109">Code_Wars Profile.</a> <br/>
   👉 <a href="https://stackoverflow.com/users/19937402/jobayer-ahmed">Stack Overflow Profile</a>
 
-## :computer: `Technologies I have worked with:`
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109&layout=compact&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
 ## 📲 `About me more:`
