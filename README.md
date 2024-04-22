@@ -35,11 +35,11 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
   + [Kubernetes Community Day (KCD) Dhaka - 2024](https://github.com/Neamul01/kcd-landing) <br/>
      · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
      · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
-     · [Github link](https://github.com/Neamul01/kcd-landing) | [Live link](https://kcddhaka.org/)  <br/>
+     · [Github](https://github.com/Neamul01/kcd-landing) | [Live link](https://kcddhaka.org/)  <br/>
     
   + [Appbrews - A Next.js boilerplate template](https://github.com/rejaulkariim/appbrews.bp) <br/>
      · Contributed to the creation of a blog and an about page and addressed various minor issues to ensure optimal functionality. <br/>
-     · [Github link](https://github.com/rejaulkariim/appbrews.bp) | [Live link](https://appbrews.co) | [Product Hunt link](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) 
+     · [Github](https://github.com/rejaulkariim/appbrews.bp) | [Live link](https://appbrews.co) | [Product-hunt](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) | [Micro-launch](https://microlaunch.net/p/appbrews)
  <br />
  
 # 🔧 `Problem-solving ports:`
