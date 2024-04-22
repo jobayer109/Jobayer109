@@ -26,11 +26,18 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jobayer109&theme=highcontrast&show_icons=true&locale=en&hide_border=false" alt="Jobayer109" /></p>
 
  
-## 📊 `Problem-solving related links:`
-  👉 <a href="https://www.codewars.com/users/Jobayer109">Code_Wars Profile.</a> <br/>
-  👉 <a href="https://stackoverflow.com/users/19937402/jobayer-ahmed">Stack Overflow Profile</a>
+## 🌟 `Contributions:`
+  + [Kubernetes Community Day (KCD) Dhaka - 2024](https://github.com/Neamul01/kcd-landing) <br/>
+    · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
+    · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI.
+  + [Appbrews - A Next.js boilerplate template](https://github.com/rejaulkariim/appbrews.bp) <br/>
+    · Contributed to the creation of a blog and an about page and addressed various minor issues to ensure optimal functionality.
+ 
+## 🔧 `Problem-solving related links:`
+  * [Code-Wars](https://www.codewars.com/users/Jobayer109) <br/>
+  * [Stack Overflow](https://stackoverflow.com/users/19937402/jobayer-ahmed)
 
-## 📲 `About me:`
+## 📧 `About me:`
 
 <p align="center">
        <br />
