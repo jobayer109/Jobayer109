@@ -27,11 +27,16 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
 
  
 ## 🌟 `Contributions:`
+
   + [Kubernetes Community Day (KCD) Dhaka - 2024](https://github.com/Neamul01/kcd-landing) <br/>
-    · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
-    · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI.
+     · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
+     · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
+     · [Live link](https://kcddhaka.org/)  <br/>
+    
   + [Appbrews - A Next.js boilerplate template](https://github.com/rejaulkariim/appbrews.bp) <br/>
-    · Contributed to the creation of a blog and an about page and addressed various minor issues to ensure optimal functionality.
+     · Contributed to the creation of a blog and an about page and addressed various minor issues to ensure optimal functionality. <br/>
+     · [Live link](https://appbrews.co) <br/>
+     · [Product Hunt](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) 
  
 ## 🔧 `Problem-solving related links:`
   * [Code-Wars](https://www.codewars.com/users/Jobayer109) <br/>
