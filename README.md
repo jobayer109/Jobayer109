@@ -25,16 +25,10 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jobayer109&theme=highcontrast&locale=en&hide_border=false" alt="Jobayer109" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jobayer109&theme=highcontrast&show_icons=true&locale=en&hide_border=false" alt="Jobayer109" /></p>
 
-
- 
-
  
 ## 📊 `Problem-solving related links:`
   👉 <a href="https://www.codewars.com/users/Jobayer109">Code_Wars Profile.</a> <br/>
   👉 <a href="https://stackoverflow.com/users/19937402/jobayer-ahmed">Stack Overflow Profile</a>
-
-## 📊 `Technologies I've worked with:`
-<p><img align="center" style="margin:400px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Jobayer109&theme=highcontrast&show_icons=true&locale=en&hide_border=true" alt="Jobayer109" /></p>
 
 ## 📲 `About me:`
 
