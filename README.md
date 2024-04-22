@@ -37,7 +37,7 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
      · Contributed to the creation of a blog and an about page and addressed various minor issues to ensure optimal functionality. <br/>
      · [Github link](https://github.com/rejaulkariim/appbrews.bp) | [Live link](https://appbrews.co) | [Product Hunt link](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) 
  
-## 🔧 `Problem-solving related links:`
+## 🔧 `Problem-solving ports:`
   * [Code-Wars](https://www.codewars.com/users/Jobayer109) <br/>
   * [Stack Overflow](https://stackoverflow.com/users/19937402/jobayer-ahmed)
 
