@@ -30,7 +30,7 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
 
  <br />
  
-## 🌟 `Contributions:`
+# 🌟 `Contributions:`
 
   + [Kubernetes Community Day (KCD) Dhaka - 2024](https://github.com/Neamul01/kcd-landing) <br/>
      · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
@@ -42,7 +42,7 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
      · [Github link](https://github.com/rejaulkariim/appbrews.bp) | [Live link](https://appbrews.co) | [Product Hunt link](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) 
  <br />
  
-## 🔧 `Problem-solving ports:`
+# 🔧 `Problem-solving ports:`
   * [Code-Wars](https://www.codewars.com/users/Jobayer109) <br/>
   * [Stack Overflow](https://stackoverflow.com/users/19937402/jobayer-ahmed)
 
