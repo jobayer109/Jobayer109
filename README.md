@@ -41,6 +41,16 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
   * [Code-Wars](https://www.codewars.com/users/Jobayer109) <br/>
   * [Stack Overflow](https://stackoverflow.com/users/19937402/jobayer-ahmed)
 
+## 💼 &nbsp; `Employment History:`
+
+| Position              | Company                           | Duration             | Job Type           |  Location           |
+| --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
+| Backend Developer     | 3W Business Private Limited       | Feb 2023 - Mar 2023  | Internship         | Mumbai, India       |
+| Full-stack Developer  | RedPositive Service OPC Pvt. Ltd  | Jan 2023 - Mar 2023  | Internship         | Rajasthan, India    |
+
+
+<br />
+
 ## 📧 `About me:`
 
 <p align="center">
