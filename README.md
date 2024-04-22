@@ -20,7 +20,7 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## :chart_with_upwards_trend: `Current working status:`
+## :chart_with_upwards_trend: `Current working stats:`
  <p><img align="center" height="303" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer109&theme=highcontrast&hide_border=false" alt="Jobayer109" /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jobayer109&theme=highcontrast&locale=en&hide_border=false" alt="Jobayer109" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jobayer109&theme=highcontrast&show_icons=true&locale=en&hide_border=false" alt="Jobayer109" /></p>
@@ -31,12 +31,11 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
   + [Kubernetes Community Day (KCD) Dhaka - 2024](https://github.com/Neamul01/kcd-landing) <br/>
      · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
      · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
-     · [Live link](https://kcddhaka.org/)  <br/>
+     · [Github link](https://github.com/Neamul01/kcd-landing) | [Live link](https://kcddhaka.org/)  <br/>
     
   + [Appbrews - A Next.js boilerplate template](https://github.com/rejaulkariim/appbrews.bp) <br/>
      · Contributed to the creation of a blog and an about page and addressed various minor issues to ensure optimal functionality. <br/>
-     · [Live link](https://appbrews.co) <br/>
-     · [Product Hunt](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) 
+     · [Github link](https://github.com/rejaulkariim/appbrews.bp) | [Live link](https://appbrews.co) | [Product Hunt link](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) 
  
 ## 🔧 `Problem-solving related links:`
   * [Code-Wars](https://www.codewars.com/users/Jobayer109) <br/>
