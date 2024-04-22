@@ -20,11 +20,15 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+<br />
+
+
 ## :chart_with_upwards_trend: `Current working stats:`
  <p><img align="center" height="303" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer109&theme=highcontrast&hide_border=false" alt="Jobayer109" /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jobayer109&theme=highcontrast&locale=en&hide_border=false" alt="Jobayer109" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jobayer109&theme=highcontrast&show_icons=true&locale=en&hide_border=false" alt="Jobayer109" /></p>
 
+ <br />
  
 ## 🌟 `Contributions:`
 
@@ -36,18 +40,19 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
   + [Appbrews - A Next.js boilerplate template](https://github.com/rejaulkariim/appbrews.bp) <br/>
      · Contributed to the creation of a blog and an about page and addressed various minor issues to ensure optimal functionality. <br/>
      · [Github link](https://github.com/rejaulkariim/appbrews.bp) | [Live link](https://appbrews.co) | [Product Hunt link](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) 
+ <br />
  
 ## 🔧 `Problem-solving ports:`
   * [Code-Wars](https://www.codewars.com/users/Jobayer109) <br/>
   * [Stack Overflow](https://stackoverflow.com/users/19937402/jobayer-ahmed)
 
+<!--
 ## 💼 &nbsp; `Employment History:`
-
 | Position              | Company                           | Duration             | Job Type           |  Location           |
 | --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
+| Full-stack Developer  | RedPositive Service OPC Pvt. Ltd  | Jan 2023 - present   | Full-Time          | Rajasthan, India    |
 | Backend Developer     | 3W Business Private Limited       | Feb 2023 - Mar 2023  | Internship         | Mumbai, India       |
-| Full-stack Developer  | RedPositive Service OPC Pvt. Ltd  | Jan 2023 - Mar 2023  | Internship         | Rajasthan, India    |
-
+-->
 
 <br />
 
