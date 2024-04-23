@@ -40,6 +40,10 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
   + [Appbrews - A Next.js boilerplate template](https://github.com/rejaulkariim/appbrews.bp) <br/>
      · Contributed to the creation of a blog and an about page and addressed various minor issues to ensure optimal functionality. <br/>
      · [Github](https://github.com/rejaulkariim/appbrews.bp) | [Live link](https://appbrews.co) | [Product-hunt](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) | [Micro-launch](https://microlaunch.net/p/appbrews)
+ 
+  + [Brew Haven - Coffee-shop website](https://github.com/rejaulkariim/brew-haven) <br/>
+     · Contributed to the creation of a blog and an about page and addressed various minor issues to ensure optimal functionality. <br/>
+     · [Github](https://github.com/rejaulkariim/brew-haven) 
  <br />
  
 # 🔧 `Problem-solving ports:`
