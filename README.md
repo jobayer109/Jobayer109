@@ -6,6 +6,29 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
 
 
 ## 🧰 `Technologies and Tools:`
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+
+<!--
+Pending:
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+-->
+
+
+<!--
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" height="40"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" height="40"/>
@@ -19,7 +42,7 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
 <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-
+-->
 <br />
 
 
