@@ -1,6 +1,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jobayer109)
-<img src="https://media.licdn.com/dms/image/D5616AQFvNUuRElmEog/profile-displaybackgroundimage-shrink_350_1400/0/1697811614811?e=1717027200&v=beta&t=RWN7493IvSkJ46TTjM_oZCpCU7mfn5itj-FOQDtFiWA" style="vertical-align:top; margin:0px"/>
+<img src="https://media.licdn.com/dms/image/D5616AQE8hZNoGw8oXw/profile-displaybackgroundimage-shrink_350_1400/0/1714189146694?e=1719446400&v=beta&t=CX2_Y2NB46OqGBawhRvjthyVA1BojSo_FAcrkiSRwGA" style="vertical-align:top; margin:0px"/>
   
 # Hi, I'm `Jobayer Ahmed`
 As an aspiring web developer, I am eager to embark on a journey to explore the dynamic realm of web development. Equipped with proficiency in HTML, CSS, JavaScript, React, Node, Express, MongoDB, and Responsive Design, I am dedicated to refining my skills and crafting captivating, user-centric websites. My passion for open-source contributions fuels my enthusiasm to collaborate on pioneering projects. Join me as I progress in the coding sphere, committed to continuous learning and collective creation. Together, let us innovate, collaborate, and shape the future of web development.
