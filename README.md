@@ -39,7 +39,6 @@ Pending:
  <br />
  
 ## 🌟 `Contributions:`
-
   + [![Linkedin Badge](https://img.shields.io/badge/Kubernetes%20Community%20Day%20(KCD)%20Dhaka%202024-red)](https://kcddhaka.org/)  <br/>
      · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
      · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
