@@ -55,7 +55,7 @@ Pending:
 
  <br />
  
-# 🌟 `Contributions:`
+## 🌟 `Contributions:`
 
   + [Kubernetes Community Day (KCD) Dhaka - 2024](https://github.com/Neamul01/kcd-landing) <br/>
      · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
@@ -71,7 +71,7 @@ Pending:
      · [Github](https://github.com/rejaulkariim/brew-haven) 
  <br />
  
-# 🔧 `Problem-solving:`
+## 🔧 `Problem-solving:`
 
   * [![Linkedin Badge](https://img.shields.io/badge/Code%20wars%20-%20red)](https://www.codewars.com/users/Jobayer109) 
    [![Linkedin Badge](https://img.shields.io/badge/Stack%20overflow%20-%20green)](https://stackoverflow.com/users/19937402/jobayer-ahmed) 
