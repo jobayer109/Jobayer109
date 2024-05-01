@@ -8,6 +8,7 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
 
 
 ## 🧰 `Technologies and Tools:`
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -30,6 +31,7 @@ Pending:
 -->
 
 ## :chart_with_upwards_trend: `Current working stats:`
+
  <p><img align="center" height="303" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer109&theme=highcontrast&hide_border=false" alt="Jobayer109" /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jobayer109&theme=highcontrast&locale=en&hide_border=false" alt="Jobayer109" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jobayer109&theme=highcontrast&show_icons=true&locale=en&hide_border=false" alt="Jobayer109" /></p>
@@ -49,9 +51,10 @@ Pending:
      · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
      · [![Github](https://img.shields.io/badge/Github-blue)](https://github.com/rejaulkariim/appbrews.bp)  [![Live link](https://img.shields.io/badge/Live%20link-blue)](https://appbrews.co) [![Product-hunt](https://img.shields.io/badge/Product%20hunt-blue)](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) [![Micro-launch](https://img.shields.io/badge/Micro%20launch-blue)](https://microlaunch.net/p/appbrews) <br/>
     
-  + [Brew Haven - Coffee-shop website](https://github.com/rejaulkariim/brew-haven) <br/>
+ <!-- + [Brew Haven - Coffee-shop website](https://github.com/rejaulkariim/brew-haven) <br/>
      · Contributed to the creation of a blog and an about page. <br/>
      · [Github](https://github.com/rejaulkariim/brew-haven) 
+     -->
  <br />
  
 ## 🔧 `Problem-solving:`
