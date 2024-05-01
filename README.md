@@ -57,6 +57,10 @@ Pending:
  
 ## 🌟 `Contributions:`
 
+  + [![Linkedin Badge](https://img.shields.io/badge/Kubernetes%20Community%20Day%20(KCD)%20Dhaka%202024-red)](https://kcddhaka.org/)  <br/>
+     · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
+     · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
+     · [![Github](https://img.shields.io/badge/Github-red)](https://github.com/Neamul01/kcd-landing)  [![Live link](https://img.shields.io/badge/Live%20link-red)](https://kcddhaka.org/) <br/>
   + [Kubernetes Community Day (KCD) Dhaka - 2024](https://github.com/Neamul01/kcd-landing) <br/>
      · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
      · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
