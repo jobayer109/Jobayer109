@@ -29,25 +29,6 @@ Pending:
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 -->
 
-
-<!--
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" height="40"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" height="40"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" height="40"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" height="40"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" height="40"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png" height="40"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png" height="40"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" height="40"/>
-<img src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
--->
-<br />
-
-
 ## :chart_with_upwards_trend: `Current working stats:`
  <p><img align="center" height="303" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer109&theme=highcontrast&hide_border=false" alt="Jobayer109" /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jobayer109&theme=highcontrast&locale=en&hide_border=false" alt="Jobayer109" /></p>
@@ -61,15 +42,13 @@ Pending:
      · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
      · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
      · [![Github](https://img.shields.io/badge/Github-red)](https://github.com/Neamul01/kcd-landing)  [![Live link](https://img.shields.io/badge/Live%20link-red)](https://kcddhaka.org/) <br/>
-  + [Kubernetes Community Day (KCD) Dhaka - 2024](https://github.com/Neamul01/kcd-landing) <br/>
-     · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
-     · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
-     · [Github](https://github.com/Neamul01/kcd-landing) | [Live link](https://kcddhaka.org/)  <br/>
-    
-  + [Appbrews - A Next.js boilerplate template](https://github.com/rejaulkariim/appbrews.bp) <br/>
+     
+  + [![Linkedin Badge](https://img.shields.io/badge/Appbrews-blue)](https://www.appbrews.co/)  <br/>
+     · Appbrews is a Next.js boilerplate template for high-quality web applications. <br/>
      · Contributed to the creation of a blog and an about page and addressed various minor issues to ensure optimal functionality. <br/>
-     · [Github](https://github.com/rejaulkariim/appbrews.bp) | [Live link](https://appbrews.co) | [Product-hunt](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) | [Micro-launch](https://microlaunch.net/p/appbrews)
- 
+     · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
+     · [![Github](https://img.shields.io/badge/Github-blue)](https://github.com/rejaulkariim/appbrews.bp)  [![Live link](https://img.shields.io/badge/Live%20link-blue)](https://appbrews.co) [![Product-hunt](https://img.shields.io/badge/Product%20hunt-blue)](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) [![Micro-launch](https://img.shields.io/badge/Micro%20launch-blue)](https://microlaunch.net/p/appbrews) <br/>
+    
   + [Brew Haven - Coffee-shop website](https://github.com/rejaulkariim/brew-haven) <br/>
      · Contributed to the creation of a blog and an about page. <br/>
      · [Github](https://github.com/rejaulkariim/brew-haven) 
