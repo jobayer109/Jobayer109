@@ -64,8 +64,8 @@ Pending:
  
 ## 🔧 Problem-solving:
 
-   * [![Linkedin Badge](https://img.shields.io/badge/Code%20wars%20-%20red)](https://www.codewars.com/users/Jobayer109) 
-   [![Linkedin Badge](https://img.shields.io/badge/Stack%20overflow%20-%20green)](https://stackoverflow.com/users/19937402/jobayer-ahmed) 
+   > > [![Linkedin Badge](https://img.shields.io/badge/Code%20wars%20-%20red)](https://www.codewars.com/users/Jobayer109)  </br>
+   > > [![Linkedin Badge](https://img.shields.io/badge/Stack%20overflow%20-%20green)](https://stackoverflow.com/users/19937402/jobayer-ahmed) 
   
 
 <!--
