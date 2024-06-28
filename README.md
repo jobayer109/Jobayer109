@@ -13,7 +13,7 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
    [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jobayer109/) 
    [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jobayer109x) 
 
-## 🧰 `Technologies and Tools:`
+## ✅ Technologies and Tools:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -36,7 +36,7 @@ Pending:
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 -->
 
-## :chart_with_upwards_trend: `Current working stats:`
+## :chart_with_upwards_trend: Current working stats:
 
  <p><img align="center" height="303" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer109&theme=highcontrast&hide_border=false" alt="Jobayer109" /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jobayer109&theme=highcontrast&locale=en&hide_border=false" alt="Jobayer109" /></p>
@@ -44,7 +44,7 @@ Pending:
 
  <br />
  
-## 🌟 `Contributions:`
+## 🌟 Contributions:
   + [![Linkedin Badge](https://img.shields.io/badge/Kubernetes%20Community%20Day%20(KCD)%20Dhaka%202024-red)](https://kcddhaka.org/)  <br/>
      · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
      · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
@@ -62,7 +62,7 @@ Pending:
      -->
  <br />
  
-## 🔧 `Problem-solving:`
+## 🔧 Problem-solving:
 
    * [![Linkedin Badge](https://img.shields.io/badge/Code%20wars%20-%20red)](https://www.codewars.com/users/Jobayer109) 
    [![Linkedin Badge](https://img.shields.io/badge/Stack%20overflow%20-%20green)](https://stackoverflow.com/users/19937402/jobayer-ahmed) 
@@ -76,29 +76,5 @@ Pending:
 | Backend Developer     | 3W Business Private Limited       | Feb 2023 - Mar 2023  | Internship         | Mumbai, India       |
 -->
 
-<br />
-<!--
-## 📧 `About me:`
 
-<p align="center">
-       <br />
-      <a href="https://www.linkedin.com/in/jobayer109/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="30" style="vertical-align:top; margin:20px"/>
-    </a>
-  <a href="https://github.com/Jobayer109/">
-      <img src="https://cdn-icons-png.flaticon.com/512/536/536452.png" height="30" style="vertical-align:top; margin:4px"/>
-    </a>
-   <a href="https://dev.to/jobayer109">
-      <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" height="30" style="vertical-align:top; margin:4px"/>
-    </a>
-  <a href="https://stackoverflow.com/users/19937402/jobayer-ahmed">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGzjea6fE-N9d6GpBr5ZPng68fSHwKI0rbsA&usqp=CAU" height="30" style="vertical-align:top; margin:4px"/>
-    </a>
-    <a href="https://www.facebook.com/jobayer1995/">
-      <img src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" height="30" style="vertical-align:top; margin:14px"/>
-    </a>
-    <a href="https://jobayerahmed.netlify.app/">
-      <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="30" style="vertical-align:top; margin:4px"/>
-    </a>
-  </p>
--->
+
