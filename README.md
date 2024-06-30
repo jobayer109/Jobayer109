@@ -63,7 +63,7 @@ Pending:
  <br />
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jobayer109&theme=dark_lover&no-bg=true&margin-w=4&column=6&no-frame=false)
+![](https://github-profile-trophy.vercel.app/?username=jobayer109&theme=dark_lover&no-bg=true&margin-w=4&column=7&no-frame=false)
  
 # 🔧 Problem-solving:
 
