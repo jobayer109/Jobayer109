@@ -36,7 +36,7 @@ Pending:
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 -->
 
-# :chart_with_upwards_trend: Current working stats:
+# 💹 Current working stats:
 
  <p><img align="center" height="303" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer109&theme=highcontrast&hide_border=false" alt="Jobayer109" /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jobayer109&theme=highcontrast&locale=en&hide_border=false" alt="Jobayer109" /></p>
@@ -65,7 +65,7 @@ Pending:
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jobayer109&theme=dark_lover&no-bg=true&margin-w=4&column=7&no-frame=false)
  
-# 🔧 Problem-solving:
+# ⚙️ Problem-solving:
 
    > > [![Linkedin Badge](https://img.shields.io/badge/Code%20wars%20-%20red)](https://www.codewars.com/users/Jobayer109)  </br>
    > > [![Linkedin Badge](https://img.shields.io/badge/Stack%20overflow%20-%20green)](https://stackoverflow.com/users/19937402/jobayer-ahmed) 
