@@ -71,13 +71,13 @@ Pending:
    > > [![Linkedin Badge](https://img.shields.io/badge/Stack%20overflow%20-%20green)](https://stackoverflow.com/users/19937402/jobayer-ahmed) 
   
 
-<!--
+
 ## 💼 &nbsp; `Employment History:`
 | Position              | Company                           | Duration             | Job Type           |  Location           |
 | --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
-| Full-stack Developer  | RedPositive Service OPC Pvt. Ltd  | Jan 2023 - present   | Full-Time          | Rajasthan, India    |
+| Frontend Developer    | Pocketschool                      | July 2024 - present  | Full-Time          | Dhaka, Bangladesh    |
 | Backend Developer     | 3W Business Private Limited       | Feb 2023 - Mar 2023  | Internship         | Mumbai, India       |
--->
+
 
 
 
