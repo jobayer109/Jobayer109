@@ -4,17 +4,18 @@
   
 # Hi, I'm `Jobayer Ahmed`
 As an aspiring web developer, I am eager to embark on a journey to explore the dynamic realm of web development. Equipped with proficiency in HTML, CSS, JavaScript, React, Node, Express, MongoDB, and Responsive Design, I am dedicated to refining my skills and crafting captivating, user-centric websites. My passion for open-source contributions fuels my enthusiasm to collaborate on pioneering projects. Join me as I progress in the coding sphere, committed to continuous learning and collective creation. Together, let us innovate, collaborate, and shape the future of web development.
+
 <br/>
 
-## 📞 Connect with me:
-
+## 📞`Connect with me:`
 >   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobayer109/) 
  >  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobayer.ahmed109@gmail.com) 
   > [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jobayer109/) 
   > [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jobayer109x) 
 
-## 🛠️ Technologies and Tools:
+<br/>
 
+## 🛠️`Technologies and Tools:`
 > ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -31,20 +32,21 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
 > ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 > ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
+<br/>
+
 <!--
 Pending:
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 -->
 
-## 📊 Current working stats:
-
+## 📊`Current working stats:`
  <p><img align="center" height="303" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer109&theme=highcontrast&hide_border=false" alt="Jobayer109" /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jobayer109&theme=highcontrast&locale=en&hide_border=false" alt="Jobayer109" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jobayer109&theme=highcontrast&show_icons=true&locale=en&hide_border=false" alt="Jobayer109" /></p>
 
  <br />
  
-## 🌟 Contributions:
+## 🌟`Contributions:`
   + [![Linkedin Badge](https://img.shields.io/badge/Kubernetes%20Community%20Day%20(KCD)%20Dhaka%202024-red)](https://kcddhaka.org/)  <br/>
      · Created dashboard forms for tickets, orders, profiles, coupons, and participants, with validation and CRUD operations. <br/>
      · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
@@ -60,20 +62,22 @@ Pending:
      · Contributed to the creation of a blog and an about page. <br/>
      · [Github](https://github.com/rejaulkariim/brew-haven) 
      -->
+     
  <br />
 <!--
-## 🏆 GitHub Trophies
+## 🏆`GitHub Trophies:`
 ![](https://github-profile-trophy.vercel.app/?username=jobayer109&theme=dark_lover&no-bg=true&margin-w=4&column=7&no-frame=false)
 -->
   
-## ⚙️ Problem-solving:
+## ⚙️`Problem-solving:`
 
    >  [![Linkedin Badge](https://img.shields.io/badge/Code%20wars%20-%20red)](https://www.codewars.com/users/Jobayer109)  </br>
    >  [![Linkedin Badge](https://img.shields.io/badge/Stack%20overflow%20-%20green)](https://stackoverflow.com/users/19937402/jobayer-ahmed) 
   
 
+<br/>
 
-## 🎀 `Employment History:`
+## 🎀`Employment History:`
 | Position              | Company                           | Duration             | Job Type           |  Location           |
 | --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
 | Frontend Developer    | Pocketschool                      | July 2024 - present  | Full-Time          | Dhaka, Bangladesh    |
