@@ -6,14 +6,6 @@
 As an aspiring web developer, I am eager to embark on a journey to explore the dynamic realm of web development. Equipped with proficiency in HTML, CSS, JavaScript, React, Node, Express, MongoDB, and Responsive Design, I am dedicated to refining my skills and crafting captivating, user-centric websites. My passion for open-source contributions fuels my enthusiasm to collaborate on pioneering projects. Join me as I progress in the coding sphere, committed to continuous learning and collective creation. Together, let us innovate, collaborate, and shape the future of web development.
 -->
 
-## 📞`Connect with me:`
->   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobayer109/) 
- >  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobayer.ahmed109@gmail.com) 
-  > [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jobayer109/) 
-  > [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jobayer109x) 
-
-<br/>
-
 ## 🛠️`Technologies and Tools:`
 > ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -82,6 +74,14 @@ Pending:
 | Frontend Developer    | Pocketschool                      | July 2024 - present  | Full-Time          | Dhaka, Bangladesh    |
 | Backend Developer     | 3W Business Private Limited       | Feb 2023 - Mar 2023  | Internship         | Mumbai, India       |
 
+<br/>
 
+## 📞`Connect with me:`
+>   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobayer109/) 
+ >  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobayer.ahmed109@gmail.com) 
+  > [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jobayer109/) 
+  > [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jobayer109x) 
+
+<br/>
 
 
