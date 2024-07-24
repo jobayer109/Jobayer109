@@ -79,7 +79,7 @@ Pending:
 ## 🎀`Employment History:`
 | Position              | Company                           | Duration             | Job Type           |  Location           |
 | --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
-| Frontend Developer    | [Pocketschool](https://www.pocketschool.academy/)| July 2024 - present  | Full-Time          | Dhaka, Bangladesh    |
+| Software Developer    | [Pocketschool](https://www.pocketschool.academy/)| July 2024 - present  | Full-Time          | Dhaka, Bangladesh    |
 | Backend Developer     | [3W Business Private Limited](https://www.pocketschool.academy/)      | Feb 2023 - Mar 2023  | Internship         | Mumbai, India       |
 
 <br/>
