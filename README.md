@@ -80,7 +80,7 @@ Pending:
 | Position              | Company                           | Duration             | Job Type           |  Location           |
 | --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
 | Software Developer    | [Pocketschool](https://www.pocketschool.academy/)| July 2024 - present  | Full-Time          | Dhaka, Bangladesh    |
-| Backend Developer     | [3W Business Private Limited](https://www.pocketschool.academy/)      | Feb 2023 - Mar 2023  | Internship         | Mumbai, India       |
+| Backend Developer     | [3W Business Private Limited](https://www.linkedin.com/company/triplewsols/about/)      | Feb 2023 - Mar 2023  | Internship         | Mumbai, India       |
 
 <br/>
 
