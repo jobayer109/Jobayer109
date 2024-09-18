@@ -80,7 +80,7 @@ Pending:
 | Position              | Company                           | Duration             | Job Type           |  Location           |
 | --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
 | Software Developer    | Pocketschool       | July 2024 - present  | Full-Time          | Dhaka, Bangladesh    |
-| Frontend Developer     | RedPositive (OPC) Service Pvt. Ltd                      | Jan 2023 - May 2024  | Full-Time (Contract)| Jaipur, Rajasthan, India       |
+| Frontend Developer     | RedPositive Service Pvt. Ltd                      | Jan 2023 - May 2024  | Full-Time| Rajasthan, India       |
 | Backend Developer     | 3W Business Private Limited      | Feb 2023 - Mar 2023  | Internship         | Mumbai, India       |
 
 <br/>
