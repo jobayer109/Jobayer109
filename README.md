@@ -69,7 +69,7 @@ Pending:
           <img
             style="max-width: 100%; height: auto; margin: 10px 0;"
             alt="Jobayer Ahmed :: Top Langs"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer109&langs_count=20&theme=blue-green&layout=compact&hide=html"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer109&langs_count=20&theme=blue-green&layout=compact&hide=html&hide_border=true"
           />
         </div>
       </td>
