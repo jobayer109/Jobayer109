@@ -6,6 +6,21 @@
 As an aspiring web developer, I am eager to embark on a journey to explore the dynamic realm of web development. Equipped with proficiency in HTML, CSS, JavaScript, React, Node, Express, MongoDB, and Responsive Design, I am dedicated to refining my skills and crafting captivating, user-centric websites. My passion for open-source contributions fuels my enthusiasm to collaborate on pioneering projects. Join me as I progress in the coding sphere, committed to continuous learning and collective creation. Together, let us innovate, collaborate, and shape the future of web development.
 -->
 
+<div>
+  <h1 align="center">
+    <!--Bd flag-->
+    <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/> 
+    <br/> 
+    Hi, I'm Jobayer Ahmed <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+  </h1>
+  <div align="center" text-align= "justify">
+   I am a highly skilled Full-Stack JavaScript Developer with extensive experience building scalable, efficient, and user-centric applications. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and deeply understand front-end and back-end development.
+  </div>
+  <br />
+<div>
+
+<br/>
+
 ## 🛠️`Technologies and Tools:`
 > ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
