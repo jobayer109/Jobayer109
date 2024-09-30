@@ -35,12 +35,12 @@ Pending:
   <table align="center" width="100%" style="max-width: 800px; margin: auto;">
     <tr>
       <td align="center" style="padding: 10px;">
-        <img
-          style="max-width: 100%; height: auto;"
-          alt="Jobayer Ahmed :: Profile Stats"
-          src="https://github-readme-stats.vercel.app/api?username=jobayer109&theme=blue-green&show_icons=true&count_private=true&hide_border=true"
-        />
-      </td>
+       <img
+            style="max-width: 100%; height: auto; margin: 10px 0;"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayer109&theme=blue_green&utcOffset=8&layout=compact"
+            alt="Productive Time Card"
+          />
+              </td>
       <td align="center" style="padding: 10px;">
         <img
           style="max-width: 100%; height: auto;"
@@ -62,10 +62,10 @@ Pending:
       <td colspan="2" align="center">
         <div style="display: flex; flex-direction: column; align-items: center;">
           <img
-            style="max-width: 100%; height: auto; margin: 10px 0;"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayer109&theme=blue_green&utcOffset=8&layout=compact"
-            alt="Productive Time Card"
-          />
+          style="max-width: 100%; height: auto;"
+          alt="Jobayer Ahmed :: Profile Stats"
+          src="https://github-readme-stats.vercel.app/api?username=jobayer109&theme=blue-green&show_icons=true&count_private=true&hide_border=true"
+        />
           <img
             style="max-width: 100%; height: auto; margin: 10px 0;"
             alt="Jobayer Ahmed :: Top Langs"
