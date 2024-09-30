@@ -31,10 +31,65 @@ Pending:
 -->
 
 ## 📊`Current working stats:`
+<div align="center">
+  <table align="center" width="100%">
+    <tr>
+      <td colspan="1" align="center">
+        <img
+          width="400px"
+          alt="Shahriyar-Hosen :: Profile Stats"
+          src="https://github-readme-stats.vercel.app/api?username=jobayer109&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
+        />
+      </td>
+      <td colspan="1" align="center">
+      <img
+          align="center"
+          width="400px"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobayer109&theme=blue_green"
+          alt="Profile details" 
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+       <img
+          align="center"
+          width="70%"
+          src="https://github-readme-streak-stats.herokuapp.com?user=jobayer109&theme=blue-green&hide_border=true"
+        />
+      </td>
+    </tr>
+    <tr>
+     <td colspan="2">
+       <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
+          <img
+            width="460px"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayer109&theme=blue_green&utcOffset=8"
+          />
+         <img
+            width="340px"
+            alt="Shahriyar-Hosen :: Top Langs"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer109&langs_count=20&theme=blue-green&layout=compact&hide=html"
+         />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div style="display: flex; justify-content: center;" align="center">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobayer109&theme=blue_green" alt="Top languages by repo" width="400" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobayer109&theme=blue_green" alt="Top languages by commit" width="400" />
+        </div>
+      </td>
+    </tr>
+</table>
+</div>
+
+<!--
  <p><img align="center" height="303" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer109&theme=highcontrast&hide_border=false" alt="Jobayer109" /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Jobayer109&theme=highcontrast&locale=en&hide_border=false" alt="Jobayer109" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jobayer109&theme=highcontrast&show_icons=true&locale=en&hide_border=false" alt="Jobayer109" /></p>
-
+-->
  <br />
  
 ## 🌟`Contributions:`
