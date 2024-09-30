@@ -32,45 +32,51 @@ Pending:
 
 ## 📊`Current working stats:`
 <div align="center">
-  <table align="center" width="100%">
+  <table align="center" width="100%" style="max-width: 800px; margin: auto;">
     <tr>
-      <td colspan="1" align="center">
+      <td align="center" style="padding: 10px;">
         <img
-          width="400px"
-          alt="Shahriyar-Hosen :: Profile Stats"
-          src="https://github-readme-stats.vercel.app/api?username=jobayer109&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
+          style="max-width: 100%; height: auto;"
+          alt="Jobayer Ahmed :: Profile Stats"
+          src="https://github-readme-stats.vercel.app/api?username=jobayer109&theme=blue-green&show_icons=true&count_private=true&hide_border=true"
         />
       </td>
-      <td colspan="1" align="center">
-      <img
-          align="center"
-          width="400px"
+      <td align="center" style="padding: 10px;">
+        <img
+          style="max-width: 100%; height: auto;"
           src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobayer109&theme=blue_green"
-          alt="Profile details" 
+          alt="Profile details"
         />
       </td>
     </tr>
-  <tr>
-  <td colspan="2">
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-      <img
-        style="max-width: 100%; height: auto; width: 340px;"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayer109&theme=blue_green"
-        alt="Productive Time Card"
-      />
-      <img
-        style="max-width: 100%; height: auto; width: 340px;"
-        alt="Shahriyar-Hosen :: Top Langs"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer109&langs_count=20&theme=blue-green&layout=compact&hide=html"
-      />
-    </div>
-  </td>
-</tr>
-
-
-    
-</table>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          style="max-width: 100%; height: auto;"
+          src="https://github-readme-streak-stats.herokuapp.com?user=jobayer109&theme=blue-green&hide_border=true"
+          alt="Streak Stats"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <div style="display: flex; flex-direction: column; align-items: center;">
+          <img
+            style="max-width: 100%; height: auto; margin: 10px 0;"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayer109&theme=blue_green&utcOffset=8&layout=compact"
+            alt="Productive Time Card"
+          />
+          <img
+            style="max-width: 100%; height: auto; margin: 10px 0;"
+            alt="Jobayer Ahmed :: Top Langs"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer109&langs_count=20&theme=blue-green&layout=compact&hide=html"
+          />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <!--
  <p><img align="center" height="303" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer109&theme=highcontrast&hide_border=false" alt="Jobayer109" /></p>
