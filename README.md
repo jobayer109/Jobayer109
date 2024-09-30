@@ -50,30 +50,24 @@ Pending:
         />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-       <img
-          align="center"
-          width="70%"
-          src="https://github-readme-streak-stats.herokuapp.com?user=jobayer109&theme=blue-green&hide_border=true"
-        />
-      </td>
-    </tr>
-    <tr>
-     <td colspan="2">
-       <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
-          <img
-            width="460px"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayer109&theme=blue_green&utcOffset=8"
-          />
-         <img
-            width="340px"
-            alt="Shahriyar-Hosen :: Top Langs"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer109&langs_count=20&theme=blue-green&layout=compact&hide=html"
-         />
-        </div>
-      </td>
-    </tr>
+  <tr>
+  <td colspan="2">
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+      <img
+        style="max-width: 100%; height: auto; width: 340px;"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayer109&theme=blue_green"
+        alt="Productive Time Card"
+      />
+      <img
+        style="max-width: 100%; height: auto; width: 340px;"
+        alt="Shahriyar-Hosen :: Top Langs"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer109&langs_count=20&theme=blue-green&layout=compact&hide=html"
+      />
+    </div>
+  </td>
+</tr>
+
+
     
 </table>
 </div>
