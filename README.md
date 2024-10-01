@@ -110,7 +110,7 @@ Pending:
      · Appbrews is a Next.js boilerplate template for high-quality web applications. <br/>
      · Contributed to the creation of a blog and an about page and addressed various minor issues to ensure optimal functionality. <br/>
      · Dynamically displayed 'Keynote Speaker' and 'Event Speakers' data in the UI. <br/>
-     · [![Github](https://img.shields.io/badge/Github-blue)](https://github.com/rejaulkariim/appbrews.bp)  [![Live link](https://img.shields.io/badge/Live%20link-blue)](https://appbrews.co) [![Product-hunt](https://img.shields.io/badge/Product%20hunt-blue)](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) [![Micro-launch](https://img.shields.io/badge/Micro%20launch-blue)](https://microlaunch.net/p/appbrews) <br/>
+     · [![Github](https://img.shields.io/badge/Github-blue)](https://github.com/rejaulkariim/appbrews.bp) [![Product-hunt](https://img.shields.io/badge/Product%20hunt-blue)](https://www.producthunt.com/products/app-brews?utm_source=badge-featured&utm_medium=badge#app-brews) [![Micro-launch](https://img.shields.io/badge/Micro%20launch-blue)](https://microlaunch.net/p/appbrews) <br/>
     
  <!-- + [Brew Haven - Coffee-shop website](https://github.com/rejaulkariim/brew-haven) <br/>
      · Contributed to the creation of a blog and an about page. <br/>
