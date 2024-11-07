@@ -49,6 +49,7 @@ Pending:
 <div align="center">
   <table align="center" width="100%" style="max-width: 800px; margin: auto;">
     <tr>
+     <!--
       <td align="center" style="padding: 10px;">
        <img
             style="max-width: 100%; height: auto; margin: 10px 0;"
@@ -56,6 +57,7 @@ Pending:
             alt="Productive Time Card"
           />
               </td>
+-->
       <td align="center" style="padding: 10px;">
         <img
           style="max-width: 100%; height: auto;"
