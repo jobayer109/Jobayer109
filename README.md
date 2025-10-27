@@ -144,7 +144,8 @@ Pending:
 ## 🎀`Employment History:`
 | Position              | Company                           | Duration             | Job Type           |  Location           |
 | --------------------- | --------------------------------- | -------------------- | ------------------ | --------------------|
-| Frontend Developer    | Shothik AI       | November 2024 - present  | Full-Time          | Dhaka, Bangladesh    |
+| Software Engineer    | Innospace Infotech Ltd       | August 2025 - present  | Full-Time          | Dhaka, Bangladesh    |
+| Frontend Developer    | Shothik AI       | November 2024 - July 2025  | Full-Time          | Dhaka, Bangladesh    |
 | Software Developer    | Pocketschool       | July 2024 - November 2024  | Full-Time          | Dhaka, Bangladesh    |
 | Frontend Developer    | 3W Business Private Limited      | Feb 2023 - Mar 2023  | Internship         | Mumbai, India       |
 
