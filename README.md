@@ -120,16 +120,16 @@ Pending:
      -->
      
  <br />
-<!--
+
 ## 🏆`GitHub Trophies:`
 ![](https://github-profile-trophy.vercel.app/?username=jobayer109&theme=dark_lover&no-bg=true&margin-w=4&column=7&no-frame=false)
--->
-  
+
+  <br /> 
 ## ⚙️`Problem-solving:`
 
+   > 🔸[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/y6pvVFgzE4/) 
    > 🔸[![Linkedin Badge](https://img.shields.io/badge/Code%20wars%20-%20red)](https://www.codewars.com/users/Jobayer109)  
-   > 🔸[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/y6pvVFgzE4/)  
-   > 🔸[![Linkedin Badge](https://img.shields.io/badge/Stack%20overflow%20-%20green)](https://stackoverflow.com/users/19937402/jobayer-ahmed)
+    
 
 
 
