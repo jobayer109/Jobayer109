@@ -9,34 +9,44 @@ As an aspiring web developer, I am eager to embark on a journey to explore the d
 <div>
   <h1 align="center">
     <!--Bd flag-->
-    <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/> 
     <br/> 
     Hi, I'm Jobayer Ahmed <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
   </h1>
-  <div align="center" text-align= "justify">
-   I am a highly skilled Full-Stack JavaScript Developer with extensive experience building scalable, efficient, and user-centric applications. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and deeply understand front-end and back-end development.
-  </div>
-  <br />
 <div>
 
 <br/>
 
 ## 🛠️`Technologies and Tools:`
-> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 > ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-> ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-> ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-> ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+> ![React](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+> ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+> ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 > ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+> ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+> ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square)
+> ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square)
+> 
 > ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-> ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
-> ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
+> ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square)
+> ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+> ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+> ![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square)
+> 
 > ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-> ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+> ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+> ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 > ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-> ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+> ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square)
+> ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+> 
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+> ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
 
 <br/>
 
@@ -66,6 +76,7 @@ Pending:
         />
       </td>
     </tr>
+   <!--
     <tr>
       <td colspan="2" align="center">
         <img
@@ -91,6 +102,7 @@ Pending:
         </div>
       </td>
     </tr>
+   -->
   </table>
 </div>
 
