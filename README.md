@@ -12,7 +12,7 @@
 
 ### About Me
 
-Software Engineer at **Innospace Infotech Ltd**, focused on building reliable, performant web applications. I work across the stack with a primary focus on the frontend — React, Next.js, and TypeScript — and have experience designing APIs and data layers with Node.js, NestJS, and MongoDB.
+Software Engineer at **Innospace Infotech Ltd**, focused on building reliable, performant web applications. I work across the stack with a primary focus on the frontend `React, Next.js, and TypeScript` and have experience designing APIs and data layers with Node.js, NestJS, and MongoDB.
 
 ---
 
