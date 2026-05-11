@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jobayer Ahmed</h1>
-<p align="center"><b>Software Engineer</b> · Full-Stack Web Development · TypeScript · Node.js · React</p>
+<p align="center"><b>Software Engineer</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jobayer109/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
