@@ -14,11 +14,6 @@
 
 Software Engineer at **Innospace Infotech Ltd**, building reliable, performant web applications end-to-end. I work comfortably across the stack — designing UIs in **React / Next.js / TypeScript** and shipping the APIs and data layers behind them with **Node.js, NestJS, MongoDB, and PostgreSQL**. I care about clean architecture, good DX, and code that's easy to evolve.
 
-- 🔭 Currently building production web apps with the MERN / Next.js stack
-- 🌱 Exploring system design, scalable backend patterns, and DevOps fundamentals
-- 💬 Ask me about **React, Next.js, NestJS, MongoDB, REST APIs**
-- 📫 Reach me at **jobayer.ahmed109@gmail.com**
-
 ---
 
 ### 🛠️ Tech Stack
@@ -85,24 +80,11 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jobayer109&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer109&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Jobayer109&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jobayer109&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jobayer109&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
@@ -130,11 +112,3 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
   <a href="https://leetcode.com/u/y6pvVFgzE4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.codewars.com/users/Jobayer109"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jobayer109&theme=github_dark" />
-</p>
-
-<p align="center"><i>"Build it simple, build it right, then make it fast."</i></p>
