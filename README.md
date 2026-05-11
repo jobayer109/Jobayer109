@@ -128,6 +128,7 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
 
 - **[Pocketschool](https://www.pocketschool.academy/)** — Worked on both client and admin sides of a software engineering learning platform. Implemented new features, fixed bugs, and developed the **CMS** from the ground up.
 - **[Bhalo Hotels](https://bhalohotels.pakxaros.xyz/)** — Contributed to both client and admin panels of a hotel management product, shipping new features and resolving bugs across booking flows and operational dashboards.
+- **[Doclyze](https://doclyze.ai/)** — AI-powered document assistant (B2B). Contributed to a platform that lets users chat with their files (PDF, Word, DOCX, TXT, images, scanned files) in plain language and get instant, accurate responses. Features include AI-generated summaries, auto-categorization into bins (Finance, HR, etc.), unique document IDs, history tracking, and enterprise-grade security.
 - **[KCD Dhaka 2024](https://kcddhaka.org/)** — Built dashboard CRUD flows (tickets, orders, profiles, coupons, participants) with form validation, and rendered keynote/event speaker sections dynamically. [Source](https://github.com/Neamul01/kcd-landing)
 
 ---
