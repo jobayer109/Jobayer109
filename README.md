@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jobayer Ahmed 👋</h1>
+<h1 align="center">Hi, I'm Jobayer Ahmed</h1>
 <p align="center"><b>Software Engineer</b> · Full-Stack Web Development · TypeScript · Node.js · React</p>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Software Engineer at **Innospace Infotech Ltd**, building reliable, performant web applications end-to-end. I work comfortably across the stack; designing UIs in **React / Next.js / TypeScript** and shipping the APIs and data layers behind them with **Node.js, NestJS, MongoDB, and PostgreSQL**. I care about clean architecture, good DX, and code that's easy to evolve.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <table>
 <tr>
@@ -77,7 +77,7 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jobayer109&theme=tokyonight&hide_border=true" />
@@ -89,7 +89,7 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
 
 ---
 
-### 💼 Experience
+### Experience
 
 <table width="100%">
   <thead>
@@ -124,13 +124,13 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
 </table>
 
 
-### 🌟 Selected Contributions
+### Selected Contributions
 
 - **[KCD Dhaka 2024](https://kcddhaka.org/)** — Built dashboard CRUD flows (tickets, orders, profiles, coupons, participants) with form validation, and rendered keynote/event speaker sections dynamically. [Source](https://github.com/Neamul01/kcd-landing)
 
 ---
 
-### ⚙️ Problem Solving
+### Problem Solving
 
 <p>
   <a href="https://leetcode.com/u/y6pvVFgzE4/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
