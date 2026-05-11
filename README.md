@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer at **Innospace Infotech Ltd**, building reliable, performant web applications end-to-end. I work comfortably across the stack — designing UIs in **React / Next.js / TypeScript** and shipping the APIs and data layers behind them with **Node.js, NestJS, MongoDB, and PostgreSQL**. I care about clean architecture, good DX, and code that's easy to evolve.
+Software Engineer at **Innospace Infotech Ltd**, building reliable, performant web applications end-to-end. I work comfortably across the stack; designing UIs in **React / Next.js / TypeScript** and shipping the APIs and data layers behind them with **Node.js, NestJS, MongoDB, and PostgreSQL**. I care about clean architecture, good DX, and code that's easy to evolve.
 
 ---
 
@@ -91,14 +91,38 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
 
 ### 💼 Experience
 
-| Role | Company | Duration |
-| --- | --- | --- |
-| **Software Engineer** | Innospace Infotech Ltd | Aug 2025 – Present |
-| Frontend Developer | Shothik AI | Nov 2024 – Jul 2025 |
-| Software Developer | Pocketschool | Jul 2024 – Nov 2024 |
-| Frontend Developer (Intern) | 3W Business Private Limited | Feb 2023 – Mar 2023 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Role</th>
+      <th width="40%">Company</th>
+      <th width="30%">Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Software Engineer</b></td>
+      <td>Innospace Infotech Ltd</td>
+      <td>Aug 2025 – Present</td>
+    </tr>
+    <tr>
+      <td>Frontend Developer</td>
+      <td>Shothik AI</td>
+      <td>Nov 2024 – Jul 2025</td>
+    </tr>
+    <tr>
+      <td>Software Developer</td>
+      <td>Pocketschool</td>
+      <td>Jul 2024 – Nov 2024</td>
+    </tr>
+    <tr>
+      <td>Frontend Developer (Intern)</td>
+      <td>3W Business Private Limited</td>
+      <td>Feb 2023 – Mar 2023</td>
+    </tr>
+  </tbody>
+</table>
 
----
 
 ### 🌟 Selected Contributions
 
