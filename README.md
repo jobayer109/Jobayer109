@@ -126,6 +126,8 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
 
 ### Selected Contributions
 
+- **[Pocketschool](https://www.pocketschool.academy/)** — Worked on both client and admin sides of a software engineering learning platform. Implemented new features, fixed bugs, and developed the **CMS** from the ground up.
+- **[Bhalo Hotels](https://bhalohotels.pakxaros.xyz/)** — Contributed to both client and admin panels of a hotel management product, shipping new features and resolving bugs across booking flows and operational dashboards.
 - **[KCD Dhaka 2024](https://kcddhaka.org/)** — Built dashboard CRUD flows (tickets, orders, profiles, coupons, participants) with form validation, and rendered keynote/event speaker sections dynamically. [Source](https://github.com/Neamul01/kcd-landing)
 
 ---
