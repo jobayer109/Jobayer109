@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Jobayer Ahmed</h1>
 <p align="center"><b>Software Engineer</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jobayer109/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jobayer.ahmed109@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -8,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=Jobayer109&style=flat&color=brightgreen&label=Profile+Views" />
 </p>
 
----
 
 Software Engineer at **Innospace Infotech Ltd**, building reliable, performant web applications end-to-end. I work comfortably across the stack; designing UIs in **React / Next.js / TypeScript** and shipping the APIs and data layers behind them with **Node.js, NestJS, MongoDB, and PostgreSQL**. I care about clean architecture, good DX, and code that's easy to evolve.
 
