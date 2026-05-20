@@ -10,8 +10,6 @@
 
 ---
 
-### About Me
-
 Software Engineer at **Innospace Infotech Ltd**, building reliable, performant web applications end-to-end. I work comfortably across the stack; designing UIs in **React / Next.js / TypeScript** and shipping the APIs and data layers behind them with **Node.js, NestJS, MongoDB, and PostgreSQL**. I care about clean architecture, good DX, and code that's easy to evolve.
 
 ---
