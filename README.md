@@ -98,17 +98,17 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
       <td>Aug 2025 – Present</td>
     </tr>
     <tr>
-      <td>Frontend Developer</td>
+      <td>Software Engineer</td>
       <td>Shothik AI</td>
       <td>Nov 2024 – Jul 2025</td>
     </tr>
     <tr>
-      <td>Software Developer</td>
+      <td>Software Engineer</td>
       <td>Pocketschool</td>
       <td>Jul 2024 – Nov 2024</td>
     </tr>
     <tr>
-      <td>Frontend Developer (Intern)</td>
+      <td>Frontend Engineer</td>
       <td>3W Business Private Limited</td>
       <td>Feb 2023 – Mar 2023</td>
     </tr>
