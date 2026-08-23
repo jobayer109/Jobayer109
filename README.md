@@ -81,39 +81,15 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
 
 ---
 
+
 ### Experience
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%">Role</th>
-      <th width="40%">Company</th>
-      <th width="30%">Duration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Software Engineer</b></td>
-      <td>Innospace Infotech Ltd</td>
-      <td>Aug 2025 – Present</td>
-    </tr>
-    <tr>
-      <td>Software Engineer</td>
-      <td>Shothik AI</td>
-      <td>Nov 2024 – Jul 2025</td>
-    </tr>
-    <tr>
-      <td>Software Engineer</td>
-      <td>Pocketschool</td>
-      <td>Jul 2024 – Nov 2024</td>
-    </tr>
-    <tr>
-      <td>Frontend Engineer</td>
-      <td>3W Business Private Limited</td>
-      <td>Feb 2023 – Mar 2023</td>
-    </tr>
-  </tbody>
-</table>
+| Role &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Company &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Duration &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| :--- | :--- | :--- |
+| **Software Engineer** | Innospace Infotech Ltd | Aug 2025 – Present |
+| Software Engineer | Shothik AI | Nov 2024 – Jul 2025 |
+| Software Engineer | Pocketschool | Jul 2024 – Nov 2024 |
+| Frontend Engineer | 3W Business Private Limited | Feb 2023 – Mar 2023 |
 
 
 ### Selected Contributions
