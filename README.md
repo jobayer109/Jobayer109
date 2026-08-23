@@ -72,7 +72,7 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jobayer109&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer109&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
