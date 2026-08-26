@@ -75,7 +75,13 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
 </p>
 
 <p align="center">
-  <img width="90%" src="https://ghchart.rshah.org/7aa2f7/Jobayer109" alt="Contribution graph for the last year" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jobayer109&theme=tokyonight" alt="Top languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jobayer109&theme=tokyonight" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jobayer109&theme=tokyonight" alt="GitHub stats summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jobayer109&theme=tokyonight&utcOffset=6" alt="Commits by hour of day" />
 </p>
 
 ---
