@@ -1,8 +1,8 @@
 <h1 align="center">Hello there, I'm Jobayer Ahmed</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/jobayer109/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jobayer.ahmed109@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/jobayer109x"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:jobayer.ahmed109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/jobayer109x"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Jobayer109&style=flat&color=brightgreen&label=Profile+Views" />
 </p>
 
