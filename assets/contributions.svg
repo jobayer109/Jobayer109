@@ -2,7 +2,7 @@
 <defs><linearGradient id='bar' x1='0' y1='1' x2='0' y2='0'><stop offset='0%' stop-color='#70a5fd'/><stop offset='100%' stop-color='#bf91f3'/></linearGradient></defs>
 <rect width='1000' height='250' rx='8' fill='#1a1b27'/>
 <text x='46' y='26' fill='#e2e8f0' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='17' font-weight='600'>Contributions</text>
-<text x='46' y='45' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='12'>2,845 in the last year &#183; one bar per month</text>
+<text x='46' y='45' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='12'>2,975 in the last year &#183; one bar per month</text>
 <text x='984' y='45' text-anchor='end' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>faded = incomplete month</text>
 <line x1='46' y1='56.0' x2='984' y2='56.0' stroke='#2c2f45' stroke-width='1'/>
 <text x='38' y='59.5' text-anchor='end' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>700</text>
@@ -41,16 +41,16 @@
 <rect x='630.2' y='73.8' width='58.2' height='132.2' rx='3' fill='url(#bar)'><title>Apr 2026 &#183; 617 contributions</title></rect>
 <text x='659.3' y='66.8' text-anchor='middle' fill='#e2e8f0' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>617</text>
 <text x='659.3' y='228' text-anchor='middle' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>Apr</text>
-<rect x='702.4' y='149.4' width='58.2' height='56.6' rx='3' fill='url(#bar)'><title>May 2026 &#183; 264 contributions</title></rect>
-<text x='731.5' y='142.4' text-anchor='middle' fill='#e2e8f0' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>264</text>
+<rect x='702.4' y='138.9' width='58.2' height='67.1' rx='3' fill='url(#bar)'><title>May 2026 &#183; 313 contributions</title></rect>
+<text x='731.5' y='131.9' text-anchor='middle' fill='#e2e8f0' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>313</text>
 <text x='731.5' y='228' text-anchor='middle' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>May</text>
-<rect x='774.5' y='151.1' width='58.2' height='54.9' rx='3' fill='url(#bar)'><title>Jun 2026 &#183; 256 contributions</title></rect>
-<text x='803.6' y='144.1' text-anchor='middle' fill='#e2e8f0' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>256</text>
+<rect x='774.5' y='141.9' width='58.2' height='64.1' rx='3' fill='url(#bar)'><title>Jun 2026 &#183; 299 contributions</title></rect>
+<text x='803.6' y='134.9' text-anchor='middle' fill='#e2e8f0' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>299</text>
 <text x='803.6' y='228' text-anchor='middle' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>Jun</text>
-<rect x='846.7' y='80.6' width='58.2' height='125.4' rx='3' fill='url(#bar)'><title>Jul 2026 &#183; 585 contributions</title></rect>
-<text x='875.8' y='73.6' text-anchor='middle' fill='#e2e8f0' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>585</text>
+<rect x='846.7' y='73.8' width='58.2' height='132.2' rx='3' fill='url(#bar)'><title>Jul 2026 &#183; 617 contributions</title></rect>
+<text x='875.8' y='66.8' text-anchor='middle' fill='#e2e8f0' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>617</text>
 <text x='875.8' y='228' text-anchor='middle' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>Jul</text>
-<rect x='918.8' y='141.7' width='58.2' height='64.3' rx='3' fill='url(#bar)' opacity="0.45"><title>Aug 2026 &#183; 300 contributions &#183; 27 of 31 days</title></rect>
-<text x='947.9' y='134.7' text-anchor='middle' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>300</text>
+<rect x='918.8' y='140.4' width='58.2' height='65.6' rx='3' fill='url(#bar)' opacity="0.45"><title>Aug 2026 &#183; 306 contributions &#183; 27 of 31 days</title></rect>
+<text x='947.9' y='133.4' text-anchor='middle' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>306</text>
 <text x='947.9' y='228' text-anchor='middle' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>Aug</text>
 </svg>
