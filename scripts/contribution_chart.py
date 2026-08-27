@@ -1,10 +1,10 @@
+import calendar
 import json
 import os
 import subprocess
 import sys
 import tempfile
 from datetime import datetime
-from xml.sax.saxutils import escape
 
 QUERY = """
 query($login: String!) {
@@ -26,12 +26,10 @@ MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
           "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
 BG = "#1a1b27"
-BAND = "#20223a"
 RULE = "#2c2f45"
-EDGE = "#3d4266"
 FG = "#e2e8f0"
 MUTED = "#8b949e"
-DAYS_PER_WEEK = 7
+BAR_GAP = 14
 
 
 class ChartError(RuntimeError):
@@ -59,39 +57,46 @@ def fetch(login):
         raise ChartError("GitHub API returned a non-JSON response")
 
     if payload.get("errors"):
-        msg = "; ".join(e.get("message", "?") for e in payload["errors"])
-        raise ChartError(f"GitHub API error: {msg[:300]}")
+        message = "; ".join(e.get("message", "?") for e in payload["errors"])
+        raise ChartError(f"GitHub API error: {message[:300]}")
 
     user = (payload.get("data") or {}).get("user")
     if not user:
         raise ChartError(f"no such GitHub user: {login}")
-    calendar = user["contributionsCollection"]["contributionCalendar"]
-    if not calendar.get("weeks"):
+    cal = user["contributionsCollection"]["contributionCalendar"]
+    if not cal.get("weeks"):
         raise ChartError(f"no contribution calendar returned for {login}")
-    return calendar
+    return cal
 
 
-def to_weeks(calendar):
-    weeks = []
-    for week in calendar["weeks"]:
-        days = week.get("contributionDays") or []
-        if not days:
-            continue
-        try:
-            start = datetime.strptime(days[0]["date"], "%Y-%m-%d")
-            mid = datetime.strptime(days[min(3, len(days) - 1)]["date"], "%Y-%m-%d")
-        except (KeyError, ValueError) as exc:
-            raise ChartError(f"malformed day entry: {exc}")
-        weeks.append({
-            "start": start,
-            "month": (mid.year, mid.month),
-            "count": sum(int(d.get("contributionCount") or 0) for d in days),
-            "days": len(days),
-            "partial": len(days) < DAYS_PER_WEEK,
-        })
-    if not weeks:
+def to_months(cal):
+    buckets = {}
+    for week in cal["weeks"]:
+        for day in week.get("contributionDays") or []:
+            try:
+                date = datetime.strptime(day["date"], "%Y-%m-%d")
+            except (KeyError, TypeError, ValueError) as exc:
+                raise ChartError(f"malformed day entry: {exc}")
+            key = (date.year, date.month)
+            bucket = buckets.setdefault(key, {"count": 0, "days": 0})
+            bucket["count"] += int(day.get("contributionCount") or 0)
+            bucket["days"] += 1
+
+    if not buckets:
         raise ChartError("contribution calendar contained no days")
-    return weeks
+
+    months = []
+    for (year, month), bucket in sorted(buckets.items()):
+        in_month = calendar.monthrange(year, month)[1]
+        months.append({
+            "year": year,
+            "month": month,
+            "count": bucket["count"],
+            "days": bucket["days"],
+            "in_month": in_month,
+            "partial": bucket["days"] < in_month,
+        })
+    return months
 
 
 def nice_max(value):
@@ -101,35 +106,30 @@ def nice_max(value):
     return int((value // step + 1) * step)
 
 
-def month_bands(weeks, x_of, bar_w):
-    bands, current = [], None
-    for i, week in enumerate(weeks):
-        if current is None or week["month"] != current["month"]:
-            current = {"month": week["month"], "x0": x_of(i), "x1": x_of(i) + bar_w}
-            bands.append(current)
-        else:
-            current["x1"] = x_of(i) + bar_w
-    return bands
+def label_for(entry, index):
+    text = MONTHS[entry["month"] - 1]
+    if entry["month"] == 1 or index == 0:
+        text += f" &#8217;{str(entry['year'])[2:]}"
+    return text
 
 
-def render(calendar):
-    weeks = to_weeks(calendar)
-    total = int(calendar.get("totalContributions") or 0)
+def render(cal):
+    months = to_months(cal)
+    total = int(cal.get("totalContributions") or 0)
 
-    full = [w for w in weeks if not w["partial"]]
-    peak = max((w["count"] for w in full), default=0) or max(w["count"] for w in weeks)
+    complete = [m for m in months if not m["partial"]]
+    peak = max((m["count"] for m in complete), default=0) or max(m["count"] for m in months)
     top = nice_max(peak)
 
     plot_w = W - PAD_L - PAD_R
     plot_h = H - PAD_T - PAD_B
-    slot = plot_w / len(weeks)
-    bar_w = max(3.0, slot - 3)
-    x_of = lambda i: PAD_L + i * slot
-    has_partial = any(w["partial"] for w in weeks)
+    slot = plot_w / len(months)
+    bar_w = max(4.0, slot - BAR_GAP)
+    partial_count = sum(1 for m in months if m["partial"])
 
     out = [
         f"<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 {W} {H}' width='100%' "
-        f"role='img' aria-label='Weekly GitHub contributions over the last 12 months'>",
+        f"role='img' aria-label='Monthly GitHub contributions over the last 12 months'>",
         "<defs><linearGradient id='bar' x1='0' y1='1' x2='0' y2='0'>"
         "<stop offset='0%' stop-color='#70a5fd'/>"
         "<stop offset='100%' stop-color='#bf91f3'/></linearGradient></defs>",
@@ -137,51 +137,42 @@ def render(calendar):
         f"<text x='{PAD_L}' y='26' fill='{FG}' font-family=\"{FONT}\" font-size='17' "
         f"font-weight='600'>Contributions</text>",
         f"<text x='{PAD_L}' y='45' fill='{MUTED}' font-family=\"{FONT}\" font-size='12'>"
-        f"{total:,} in the last year &#183; peak {peak:,} in a week</text>",
+        f"{total:,} in the last year &#183; one bar per month</text>",
     ]
-
-    bands = month_bands(weeks, x_of, bar_w)
-    for i, band in enumerate(bands):
-        x0, x1 = band["x0"] - 1.5, band["x1"] + 1.5
-        if i % 2 == 0:
-            out.append(f"<rect x='{x0:.1f}' y='{PAD_T}' width='{x1 - x0:.1f}' "
-                       f"height='{plot_h}' fill='{BAND}'/>")
-        if i:
-            out.append(f"<line x1='{x0:.1f}' y1='{PAD_T - 6}' x2='{x0:.1f}' "
-                       f"y2='{PAD_T + plot_h + 6}' stroke='{EDGE}' stroke-width='1'/>")
-        year, month = band["month"]
-        label = MONTHS[month - 1]
-        if month == 1 or i == 0:
-            label += f" &#8217;{str(year)[2:]}"
-        out.append(f"<text x='{(x0 + x1) / 2:.1f}' y='{PAD_T + plot_h + 22}' "
-                   f"text-anchor='middle' fill='{MUTED}' font-family=\"{FONT}\" "
-                   f"font-size='10'>{label}</text>")
+    if partial_count:
+        out.append(f"<text x='{W - PAD_R}' y='45' text-anchor='end' fill='{MUTED}' "
+                   f"font-family=\"{FONT}\" font-size='10'>faded = incomplete month</text>")
 
     for i in range(5):
         value = top * (4 - i) / 4
         y = PAD_T + plot_h * i / 4
         out.append(f"<line x1='{PAD_L}' y1='{y:.1f}' x2='{W - PAD_R}' y2='{y:.1f}' "
                    f"stroke='{RULE}' stroke-width='1'/>")
-        out.append(f"<text x='{PAD_L - 8}' y='{y + 3.5:.1f}' text-anchor='end' "
-                   f"fill='{MUTED}' font-family=\"{FONT}\" font-size='10'>{int(value)}</text>")
+        out.append(f"<text x='{PAD_L - 8}' y='{y + 3.5:.1f}' text-anchor='end' fill='{MUTED}' "
+                   f"font-family=\"{FONT}\" font-size='10'>{int(value)}</text>")
 
-    for i, week in enumerate(weeks):
-        height = min(plot_h, (week["count"] / top) * plot_h) if top else 0
-        if height <= 0:
-            continue
-        x, y = x_of(i), PAD_T + plot_h - height
-        note = f" &#183; partial week ({week['days']} of 7 days)" if week["partial"] else ""
-        tip = escape(f"{week['start']:%b %d, %Y}") + f" &#183; {week['count']:,} contributions{note}"
-        opacity = " opacity='0.45'" if week["partial"] else ""
-        out.append(
-            f"<rect x='{x:.1f}' y='{y:.1f}' width='{bar_w:.1f}' height='{height:.1f}' "
-            f"rx='{min(2.0, bar_w / 2):.1f}' fill='url(#bar)'{opacity}>"
-            f"<title>{tip}</title></rect>"
-        )
+    for i, entry in enumerate(months):
+        height = min(plot_h, (entry["count"] / top) * plot_h) if top else 0
+        x = PAD_L + i * slot + (slot - bar_w) / 2
+        mid = x + bar_w / 2
+        y = PAD_T + plot_h - height
+        faded = entry["partial"]
 
-    if has_partial:
-        out.append(f"<text x='{W - PAD_R}' y='45' text-anchor='end' fill='{MUTED}' "
-                   f"font-family=\"{FONT}\" font-size='10'>faded bar = current partial week</text>")
+        if height > 0:
+            note = (f" &#183; {entry['days']} of {entry['in_month']} days"
+                    if faded else "")
+            out.append(
+                f"<rect x='{x:.1f}' y='{y:.1f}' width='{bar_w:.1f}' height='{height:.1f}' "
+                f"rx='3' fill='url(#bar)'{' opacity=\"0.45\"' if faded else ''}>"
+                f"<title>{MONTHS[entry['month'] - 1]} {entry['year']} &#183; "
+                f"{entry['count']:,} contributions{note}</title></rect>"
+            )
+        out.append(f"<text x='{mid:.1f}' y='{y - 7:.1f}' text-anchor='middle' "
+                   f"fill='{MUTED if faded else FG}' font-family=\"{FONT}\" font-size='10'>"
+                   f"{entry['count']:,}</text>")
+        out.append(f"<text x='{mid:.1f}' y='{PAD_T + plot_h + 22}' text-anchor='middle' "
+                   f"fill='{MUTED}' font-family=\"{FONT}\" font-size='10'>"
+                   f"{label_for(entry, i)}</text>")
 
     out.append("</svg>")
     return "\n".join(out)
@@ -198,13 +189,14 @@ def main():
 
     parent = os.path.dirname(os.path.abspath(dest))
     os.makedirs(parent, exist_ok=True)
-    fd, tmp = tempfile.mkstemp(dir=parent, suffix=".svg")
+    handle, tmp = tempfile.mkstemp(dir=parent, suffix=".svg")
     try:
-        with os.fdopen(fd, "w", encoding="utf-8") as handle:
-            handle.write(svg)
+        with os.fdopen(handle, "w", encoding="utf-8") as stream:
+            stream.write(svg)
         os.replace(tmp, dest)
     except BaseException:
-        os.path.exists(tmp) and os.unlink(tmp)
+        if os.path.exists(tmp):
+            os.unlink(tmp)
         raise
     print(f"wrote {dest} ({len(svg)} bytes)")
     return 0

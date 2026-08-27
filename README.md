@@ -75,7 +75,7 @@ Software Engineer at **Innospace Infotech Ltd**, building reliable, performant w
 </p>
 
 <p align="center">
-  <img width="100%" src="assets/contributions.svg" alt="Weekly GitHub contributions over the last 12 months" />
+  <img width="100%" src="assets/contributions.svg" alt="Monthly GitHub contributions over the last 12 months" />
 </p>
 
 ---
