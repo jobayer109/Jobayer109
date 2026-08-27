@@ -2,7 +2,7 @@
 <defs><linearGradient id='bar' x1='0' y1='1' x2='0' y2='0'><stop offset='0%' stop-color='#70a5fd'/><stop offset='100%' stop-color='#bf91f3'/></linearGradient></defs>
 <rect width='1000' height='250' rx='8' fill='#1a1b27'/>
 <text x='46' y='26' fill='#e2e8f0' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='17' font-weight='600'>Contributions</text>
-<text x='46' y='45' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='12'>2,844 in the last year &#183; peak 401 in a week</text>
+<text x='46' y='45' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='12'>2,845 in the last year &#183; peak 401 in a week</text>
 <rect x='44.5' y='56' width='17.7' height='150' fill='#20223a'/>
 <text x='53.3' y='228' text-anchor='middle' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>Aug &#8217;25</text>
 <line x1='62.2' y1='50' x2='62.2' y2='212' stroke='#3d4266' stroke-width='1'/>
@@ -72,8 +72,8 @@
 <rect x='506.2' y='186.8' width='14.7' height='19.2' rx='2.0' fill='url(#bar)'><title>Feb 22, 2026 &#183; 64 contributions</title></rect>
 <rect x='523.8' y='194.6' width='14.7' height='11.4' rx='2.0' fill='url(#bar)'><title>Mar 01, 2026 &#183; 38 contributions</title></rect>
 <rect x='541.5' y='190.7' width='14.7' height='15.3' rx='2.0' fill='url(#bar)'><title>Mar 08, 2026 &#183; 51 contributions</title></rect>
-<rect x='576.9' y='202.1' width='14.7' height='3.9' rx='2.0' fill='url(#bar)'><title>Mar 22, 2026 &#183; 13 contributions</title></rect>
-<rect x='594.6' y='154.1' width='14.7' height='51.9' rx='2.0' fill='url(#bar)'><title>Mar 29, 2026 &#183; 173 contributions</title></rect>
+<rect x='576.9' y='201.8' width='14.7' height='4.2' rx='2.0' fill='url(#bar)'><title>Mar 22, 2026 &#183; 14 contributions</title></rect>
+<rect x='594.6' y='154.4' width='14.7' height='51.6' rx='2.0' fill='url(#bar)'><title>Mar 29, 2026 &#183; 172 contributions</title></rect>
 <rect x='612.3' y='161.3' width='14.7' height='44.7' rx='2.0' fill='url(#bar)'><title>Apr 05, 2026 &#183; 149 contributions</title></rect>
 <rect x='630.0' y='170.9' width='14.7' height='35.1' rx='2.0' fill='url(#bar)'><title>Apr 12, 2026 &#183; 117 contributions</title></rect>
 <rect x='647.7' y='160.7' width='14.7' height='45.3' rx='2.0' fill='url(#bar)'><title>Apr 19, 2026 &#183; 151 contributions</title></rect>
@@ -94,6 +94,6 @@
 <rect x='913.2' y='203.9' width='14.7' height='2.1' rx='2.0' fill='url(#bar)'><title>Aug 02, 2026 &#183; 7 contributions</title></rect>
 <rect x='930.9' y='147.5' width='14.7' height='58.5' rx='2.0' fill='url(#bar)'><title>Aug 09, 2026 &#183; 195 contributions</title></rect>
 <rect x='948.6' y='188.9' width='14.7' height='17.1' rx='2.0' fill='url(#bar)'><title>Aug 16, 2026 &#183; 57 contributions</title></rect>
-<rect x='966.3' y='194.0' width='14.7' height='12.0' rx='2.0' fill='url(#bar)' opacity='0.45'><title>Aug 23, 2026 &#183; 40 contributions &#183; partial week (5 of 7 days)</title></rect>
+<rect x='966.3' y='193.7' width='14.7' height='12.3' rx='2.0' fill='url(#bar)' opacity='0.45'><title>Aug 23, 2026 &#183; 41 contributions &#183; partial week (5 of 7 days)</title></rect>
 <text x='984' y='45' text-anchor='end' fill='#8b949e' font-family="system-ui,-apple-system,'Segoe UI',Roboto,sans-serif" font-size='10'>faded bar = current partial week</text>
 </svg>
